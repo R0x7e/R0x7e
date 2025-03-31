@@ -28,7 +28,7 @@
 ### 🚀 ​**Featured Projects**
 <!-- Add your projects here -->
 🔒 [Fdocker](https://github.com/R0x7e/FDocker) - Fdocker用于可视化操作Docker服务
-🛡️ [CTF-Challenge-Bank](https://github.com/R0x7e/JavaCodeAudit) - Java 代码审计学习仓库 
+🛡️ [JavaCodeAudit](https://github.com/R0x7e/JavaCodeAudit) - Java 代码审计学习仓库 
 
 ---
 

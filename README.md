@@ -35,17 +35,6 @@
 - 🛡️ **[JavaCodeAudit](https://github.com/R0x7e/JavaCodeAudit)** — Java code auditing patterns, payloads, and checklists.
 - 🛰️ **Security Research Notes** — Private lab findings distilled into repeatable playbooks and detection ideas.
 
-## 📊 Signal
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R0x7e&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R0x7e&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0x7e&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
 ## 🔐 Security Mindset
 ```python
 from random import choice

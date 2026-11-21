@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/CLASS-Game_Security_Engineer-00E5FF?style=for-the-badge&labelColor=0D1117" alt="class" />
 <img src="https://img.shields.io/badge/LEVEL-01_%C2%B7_Rookie-7C4DFF?style=for-the-badge&labelColor=0D1117" alt="level" />
 <img src="https://img.shields.io/badge/DIRECTION-Fair_Play_%26_Defense-FF4D6D?style=for-the-badge&labelColor=0D1117" alt="direction" />
-<img src="https://img.shields.io/badge/GRAD-Jun_2025_%C2%B7_CS-2ECC71?style=for-the-badge&labelColor=0D1117" alt="grad" />
 
 </div>
 

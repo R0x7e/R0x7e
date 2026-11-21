@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C4DFF,100:0B0620&height=190&section=header&text=R0x7e&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=GAME%20SECURITY%20%C2%B7%20FAIR%20PLAY%20%26%20DEFENSE&descAlignY=60&descSize=15&animation=twinkling" alt="R0x7e" />
+<img width="100%" src="https://raw.githubusercontent.com/R0x7e/R0x7e/main/assets/banner.png" alt="R0x7e — game security engineer" />
 
 <a href="https://github.com/R0x7e">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=game+security+engineer+%28level+1%29;keeping+the+game+fair%2C+one+sample+at+a+time;trojan+analysis+%26+anti-cheat+research;fair+play+%2B+security+defense;class+of+2025+%C2%B7+computer+science;still+learning.+always+will+be." alt="typing" />
@@ -29,17 +29,17 @@
 <br/>
 
 ```text
-┌───────────────────────────────────────────────┐
-│                ◇ PLAYER CARD ◇                │
-├───────────────────────────────────────────────┤
-│ IGN       R0x7e                               │
-│ CLASS     Game Security Engineer              │
-│ LEVEL     01  -  rookie, still grinding       │
-│ ORIGIN    B.Eng. Computer Science, Jun 2025   │
-│ FOCUS     Trojan analysis  /  Anti-Cheat      │
-│ DIRECTION Fair play  &  security defense      │
-│ STATUS    reading binaries instead of playing │
-└───────────────────────────────────────────────┘
++-----------------------------------------------+
+|                [ PLAYER CARD ]                |
++-----------------------------------------------+
+| IGN       R0x7e                               |
+| CLASS     Game Security Engineer              |
+| LEVEL     01  -  rookie, still grinding       |
+| ORIGIN    B.Eng. Computer Science, Jun 2025   |
+| FOCUS     Trojan analysis  /  Anti-Cheat      |
+| DIRECTION Fair play  &  security defense      |
+| STATUS    reading binaries instead of playing |
++-----------------------------------------------+
 ```
 
 ---

@@ -70,6 +70,15 @@ Weird sample, nasty cheat, or a writeup I should read — I'm listening.
 
 ---
 
+## `$ cat /mission.txt`
+
+> **The long game:** go deep on **game security defense** — make cheating expensive,
+> keep matches honest, and protect the players who only ever wanted a fair fight.
+
+I'd rather spend my years building the wall than only studying the holes.
+
+---
+
 ## `$ ls ~/arsenal`
 
 <p align="center">
